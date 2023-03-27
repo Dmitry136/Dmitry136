@@ -1,5 +1,7 @@
 ### Hi there 👋 I'm QA Engineer. This is my github
 
+МОЁ РЕЗЮМЕ :point_down: :point_down: :point_down:
+
 [QA Engineer Resume.pdf](https://github.com/Dmitry136/Dmitry136/files/11078097/QA.Engineer.Resume.pdf)
 <!--[QA Engineer Resume.pdf](https://github.com/Dmitry136/Dmitry136/files/11078097/QA.Engineer.Resume.pdf)
 
